@@ -21,4 +21,4 @@ Reading a text file in which each line contains a permutation of the 26 letters 
 
 * **Melvin Cureau** - *Initial work* - [MelvinCureau](https://github.com/MelvinCureau)
 
-See also the list of [contributors](https://github.com/jefferson_Cylinder/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/MelvinCureau/jefferson_Cylinder/contributors) who participated in this project.
