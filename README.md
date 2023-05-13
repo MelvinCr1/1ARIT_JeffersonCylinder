@@ -1,6 +1,6 @@
 # Jefferson cylinder - 1Arit
 
-The goal of this mini-project is to implement the Jefferson cylinder in Python.
+The goal of this mini-project is to implement the Jefferson cylinder in Python.<br>
 The graphical interface will be created by necessarily using the Tkinter library.
 
 ## Features
