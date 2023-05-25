@@ -21,13 +21,6 @@ Random draw of a character string made up of the 26 letters of the alphabet.<br>
 Writing of n lines in a text file, n being a strictly positive integer parameter, each of them being generated according to the previous draw.<br>
 Reading a text file in which each line contains a permutation of the 26 letters of the alphabet in uppercase and creating a dictionary whose keys are the integers between a 1 and the number of lines in the file, the value corresponding to a key i being the i-th line of the file.
 
-### Graphic version
-
-We will first have a first functionality which, from a text file of the format described in part 2, displays the different cylinders vertically in the order of the file then allows you to select the key, i.e. the order of the cylinders.<br>
-By clicking successively on the numbers of the last line, we can then constitute the key.<br>
-We then reorder the cylinders according to the key.<br>
-Thanks to the arrows, you can then rotate the cylinders and thus choose the text to be encrypted and then recover the text once encrypted.
-
 ## Built With
 
 * [PyCharm] - The IDE used
